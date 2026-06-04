@@ -1,6 +1,8 @@
 # 심편한 💊
 ### 관상동맥질환(CAD) 위험도 사전 예측 AI 모델
-
+<div align="center">
+  <img src="semi1_logo.png" width="400">
+</div>
 ---
 
 ## 📌 프로젝트 개요
