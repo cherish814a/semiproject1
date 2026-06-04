@@ -3,7 +3,6 @@
 <div align="center">
   <img src="semi1_logo.png" width="400">
 </div>
----
 
 ## 📌 프로젝트 개요
 
